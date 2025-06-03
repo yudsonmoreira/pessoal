@@ -10,7 +10,7 @@ h1{
 form{
   max-width: 400px;
   margin: 20px auto;
-  background-color: #0cb2db;
+  background-color: #0bb3dd;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 0 10px  rgba(0, 0, 0, 0,1);
@@ -45,6 +45,6 @@ input[type="submit"] {
      cursor: pointer;
 }
 input[type="submit"]:hover {
-  background-color: #0026ff;
+  background-color: #0a2df1e7;
 }
 
